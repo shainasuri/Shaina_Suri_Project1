@@ -1,0 +1,121 @@
+html {
+    background-image:  url("andy.png");
+    background-size: 2em;
+    background-repeat: repeat;
+}
+
+header, footer {
+    background-color: rgb(255, 251, 0);
+    color:blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 1.5rem;
+
+}
+
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25rem;
+    max-width: 30rem;
+    align-content: center;
+    padding: 3rem;
+    background-color: rgba(255, 236, 62, 0.9);
+    text-align: center;
+    color:rgb(27, 24, 24);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+h4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25rem;
+    max-width: 20rem;
+    align-content: center;
+    padding: 2rem;
+    background-color: rgb(22, 0, 121);
+    text-align: center;
+    color:rgba(248, 190, 103, 0.9);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+h2 { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    max-width: 3rem;
+    align-content: center;
+    padding: 1rem;
+    background-color: rgb(19, 17, 17);
+    text-align: center;
+    color:rgba(255, 236, 62, 0.9);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 0.7rem;
+}
+
+.intro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25rem;
+    margin-bottom: 20rem;
+    max-width: 30rem;
+    align-content: center;
+    padding: 3rem;
+    background-color: rgb(176, 0, 211);
+    text-align: center;
+    color:rgb(98, 252, 201);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+}
+
+h3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25rem;
+    max-width: 30rem;
+    align-content: center;
+    padding: 3rem;
+    background-color: rgb(160, 85, 0);
+    text-align: center;
+    color:rgb(209, 169, 255);
+    font-family: 'Courier New', Courier, monospace;
+  
+    font-size: 1rem;
+
+}
+
+iframe {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.disclaimer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25rem;
+    margin-bottom:5rem;
+    max-width: 20rem;
+    align-content: center;
+    padding: 2rem;
+    background-color: rgb(121, 0, 0);
+    text-align: center;
+    color:rgba(255, 252, 248, 0.9);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 1rem;
+}
